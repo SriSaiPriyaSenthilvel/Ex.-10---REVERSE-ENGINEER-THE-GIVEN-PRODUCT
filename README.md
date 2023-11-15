@@ -32,11 +32,14 @@
 
 ## Input:
 
+![282525290-98d46a84-e9f2-4cc6-8373-2b3b9e509197](https://github.com/SriSaiPriyaSenthilvel/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475702/bee468bb-a3cc-4b59-a703-38434a9c1e08)
+
 ### Output:
 
+![282525063-cfc6798c-2147-4099-803e-f0ef14287620](https://github.com/SriSaiPriyaSenthilvel/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119475702/2ee6086e-4251-4cdc-a9b3-4a1ba4cdab0a)
 
-### Name:
-### Register Number:
+### Name: SRI SAI PRIYA.S
+### Register Number: 212222240103
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
